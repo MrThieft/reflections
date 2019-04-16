@@ -10,6 +10,8 @@ It enables us to submit multiple files in the same commit and eanbles us to cond
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Because it serves as a requirement to commiting alowing us to think about changes that are being made.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 

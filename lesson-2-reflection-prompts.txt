@@ -24,5 +24,7 @@ Gives a clear idea of how commits and branches are organized.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+It creates a new commit in the branch which is checked out with connections to the commits form both previous branches.It's represented in the diagram as a tree root like shape to facilitate the viewing of the merge. 
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?

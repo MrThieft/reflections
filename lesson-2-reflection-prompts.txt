@@ -19,6 +19,8 @@ When experimenting new features,working in a repository with multiple people or 
 
 How do the diagrams help you visualize the branch structure?
 
+Gives a clear idea of how commits and branches are organized.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 

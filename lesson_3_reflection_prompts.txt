@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    It's more organized if you are adding something you are not sure you want and enables us to make pull requests,which eases working with others,on the other hand it takes more work than just pushing everything to main.
